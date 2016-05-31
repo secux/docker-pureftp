@@ -1,1 +1,1 @@
-# docker-pureftp
+# ftp
